@@ -1,9 +1,3 @@
-**modele_cramer_lundberg_actuariat**
-
----
-
-# README.md
-
 ## 1. Contexte
 
 Projet réalisé à **l’INSA Toulouse** dans le cadre du cursus de mathématiques appliquées, encadré par **Anthony Réveillac**.  
